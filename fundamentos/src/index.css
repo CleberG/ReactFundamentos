@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  color: #ff0000;
+}
+
+input {
+  font-weight: bold;
+  width: 50vh;
+}
+
+select{
+  width: 50vh;
+}
+
+.text-centralizado {
+text-align: center;
+}
